@@ -3,3 +3,7 @@ Utkrisht previously held a position at Nutanix from 2020 to 2022 as an SRE where
 Before joining Nutanix he graduated with a major in CSE in 2020 from KIIT, BBSR, Odisha.
 
 He is primarily focussed in Computer Systems(Architecture & OS). Currently he is starting his research career in the same field. 
+
+<img src="profile.png"
+     alt="Profile"
+     style="float: right; margin-right: 10px;" />
