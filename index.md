@@ -4,6 +4,6 @@ Before joining Nutanix he graduated with a major in CSE in 2020 from KIIT, BBSR,
 
 He is primarily focussed in Computer Systems(Architecture & OS). Currently he is starting his research career in the same field. 
 
-<img src="profile.png"
+<img src="profile.jpg"
      alt="Profile"
      style="float: right; margin-right: 10px;" />
