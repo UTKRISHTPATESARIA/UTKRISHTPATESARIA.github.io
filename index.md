@@ -1,8 +1,5 @@
-<img align="right"
-	src="profile.jpg"
-     style="float: right; margin-right: 10px;" />
+<img align="right" width="200" height="200" src="profile.jpg">
 
-<br clear="right"/>
 
 Utkrisht previously held a position at Nutanix from 2020 to 2022 as an SRE where his work primarily revolved around troubleshooting issues on Nutanix stack. He is skilled in resolving issues related to Networking, Hardware, Virtualisation/Hypervisors, Storage on (AHV/ESXi/Hyper-V).
 
