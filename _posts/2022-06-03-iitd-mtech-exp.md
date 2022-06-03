@@ -43,13 +43,13 @@ Took a random scenario and they asked for total pt overhead used pen/paper, took
 
 Sc1 : If we have sufficient space in MM to accomadate the new process along with its PT then no need. <br />
 Sc2 : If MM does'nt have sufficient space then we need to swap out. <br />
-** Though TLB always needs to be flushed everytime a new process is scheduled **
+**Though TLB always needs to be flushed everytime a new process is scheduled**
 
 - ```Suggest another method where we can reduce PT overhead```
 
 segmentation : explained the concept of base and limit, and substantially reduce the overhead. <br />
 
-** I missed on explaining the concept of Huge Pages which is used in Linux(THP), also we can use Inverted Page table too. **
+**I missed on explaining the concept of Huge Pages which is used in Linux(THP), also we can use Inverted Page table too.**
 
 - ``` Quick-Sort - Give one line formal statement```
  
