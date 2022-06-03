@@ -1,6 +1,7 @@
 ## IIT-D Mtech Interview Experience
 
 
+<br />
 Interview Date - 12th May on Teams <br />
 Duration - 25 mins <br />
 Panelists - Madhukar Kumar, Subodh Sharma, Smruti Ranjan, Sandeep Sen. <br />
@@ -57,4 +58,9 @@ segmentation : explained the concept of base and limit, and substantially reduce
  
 -  ```How will you sort an input of Strings``` 
 
- I said heap sort. How will comparison happen - Lexicographically.
+ I said heap sort. How will comparison happen - Lexicographically. <br />
+
+
+### Few thoughts
+
+IIT D usually always asks about Mathematics(Linear Algeabra & Probability) along with Data Structures and Algorithms. In my case the interview was more inclined towards Systems, but if someone is targeting IITD please be prepared on the above along with Logic and proofs. Whatever answer you provide they will ask you to either prove if its mathematical else why/why not?
