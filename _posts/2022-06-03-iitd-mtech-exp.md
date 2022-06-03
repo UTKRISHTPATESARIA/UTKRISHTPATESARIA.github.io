@@ -1,10 +1,10 @@
 ## IIT-D Mtech Interview Experience
 
-`
-Interview Date - 12th May on Teams
-Duration - 25 mins
-Panelists - Madhukar Kumar, Subodh Sharma, Smruti Ranjan, Sandeep Sen.
-`
+
+Interview Date - 12th May on Teams <br />
+Duration - 25 mins <br />
+Panelists - Madhukar Kumar, Subodh Sharma, Smruti Ranjan, Sandeep Sen. <br />
+
 
 Before the interview started they asked me what Im comfortable with and I said Systems.
 
