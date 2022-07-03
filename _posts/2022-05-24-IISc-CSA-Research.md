@@ -1,3 +1,7 @@
+# IISc CSA Mtech Research Interview
+
+## The Interview
+
 Prior to the interview the google forms were sent out earlier to record our area of interests and sub-domains.
 
 Interview Date: 24th May.
@@ -6,7 +10,7 @@ Venue: CSA department.
 This year number of applicants for Computing Systems was very less.
 I was called up first for my interview.
 
-```Panel : (Prof.) Arkaprava Basu, Vinod Ganapathy, KV Raghavan, RC Handsah, Deepak D’souza.```
+**Panel : (Prof.) Arkaprava Basu, Vinod Ganapathy, KV Raghavan, RC Handsah, Deepak D’souza.**
 
 RH: He read out my profile and checked it with me. So you passed out from KIIT in 2020, and after that you have been working at NUTANIX!!. Everyone stared at me, (actually Nutanix funds majority of the labs hence they all know about its product). He asked me to describe my job profile and what I have been working on.
 
