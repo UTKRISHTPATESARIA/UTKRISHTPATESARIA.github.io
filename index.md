@@ -1,4 +1,4 @@
-<img width="200" height="240" src="profile.jpg" style="float: left; margin: 0px 20px 20px 100px; border-radius: 50%;  border: 5px solid #555;">
+<img width="200" height="240" src="profile.jpg" style="float: left; margin: 0px 20px 0px -250px; border-radius: 50%;  border: 5px solid #555;">
 
 Utkrisht is a grad student @ <b>IISc Bangalore</b>. He is primarily focussed in Computer Systems(Architecture & OS) and is pursuing <b>Masters by Research </b> starting Fall 2022.
 
