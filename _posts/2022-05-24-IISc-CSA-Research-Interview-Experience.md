@@ -97,6 +97,94 @@ AllocateMemory();
 }
 ```
 
+AB : Can you draw a layout for the memory partitioning for a process, assume a C program?
+
+Me : I drew the layout and explained it as per below.
+
+AB : Can you write the function calls to allocate memory to heap and stack?
+
+Me : We use sbrk() to allocate for heap and for stack I think it is the same.
+
+AB : Are you sure?
+
+Me : No I am not.
+
+AB : No worries, we use mmap() for that.
+
+Me : Ahh, yes :)
+
+VG : Can you explain how does a page-table gets built up when a process starts executing for first time?
+
+Me : I took an example and showed them let's assume a process is having X GB of memory, Page size of Y KB. And accordingly I built up the page tables and showed them diagrammatically.
+
+VG : Im interested in knowing what the are contents of Page table.
+
+Me : (*Well I messed it up!*) It contains page number along with MM frame number(actual physical address). (*I forogt to mention about all the bits for protection, dirty, R/W and how page no are related with frame number. PTE doesn't contain page number. I should have explained the whole virtual to physical address conversation)*.
+
+### Part - III
+
+AB : Let's move on to coding. 
+
+**(I have read so many interview blogs and interacted with a lot of people who interviewed for same profile, from all of them I inferred that they just check whether you know basics of coding or not. Over the past few years students have been asked on Link lists, baiscs of BST and Binary trees(invert, traversals. So I prepared accordingly, but....)**
+
+AB : Are you aware of height balanced trees?
+
+Me : *(I hope they don't ask me to code)* Yes I am, in a binary tree for every node the difference of left and right subtree should difer by a constant, in case of AVL the constant is 1.
+
+AB : What is special about AVL?
+
+Me : Along with it being height balanced it is also a BST.
+
+AB : Why do we use height balanced trees?
+
+Me : Improvising search time to O(logn). Explained them about skewed trees and disadvantages.
+
+AB : Sounds good. So can you write down a code in C to check whether the given tree is AVL or not?
+
+Me : *(It was already 40 mins into my interview and I was like will they ask everything from me only? Coming to the code I wrote down the basic template and messed up the logic in the first attempt(top-down approach). Now Arka sir started pressurizing, I asked him for few mins to help me correct my logic. To calm myself down I wrote the code for finding height of the tree as it was required. After that I got a bit of confidence and fortunately it struck. I corrected the logic(Bottom-up approach) and took an example to run the code and it worked!!)*
+
+The code:
+
+```
+int height(Node *root){
+
+  if(root == NULL) return 0;
+
+  int l = height(root -> left);
+  int r = height(root -> right);
+
+  return l > r ? l + 1 : r + 1;
+}
+
+int checkAVL(Node *root){
+
+  if(root == NULL)
+    return 1;
+    
+  //Bottom UP approach, check from leaves and then propogate up to the root.
+  
+  int a = check_AVL(root -> left);
+  int b = check_AVL(root -> right);
+  
+  if(a && b){
+    
+    int l = height(root -> left);
+    int r = height(root -> right);
+    
+    if( abs(l - r) <= 1)
+      return 1;
+    else
+      return 0;
+  }
+  else return 0;
+}
+
+```
+
+AB : Okay one last question before we wrap up. What is the differnce between process and thread.
+
+Me : I explained him with the help of diagram and he seem satisfied. 
+
 
 
 
