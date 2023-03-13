@@ -123,7 +123,7 @@ Me : (*Well I messed it up!*) It contains page number along with MM frame number
 
 (* I haven;t described this part properly but I remeber writing some psuedocode and explaining some other concepts too*)
 
-I referred the following resources which strengthened by base before the interviews:
+I referred the following resources which strengthened my base before the interviews:
 
 [Prof. Sorav Bansal IIT-D OS](https://youtube.com/playlist?list=PLTtjs-HViBW6525-_a8QL3meFIlP31gGE)
 
