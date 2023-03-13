@@ -200,4 +200,16 @@ Me : I explained him with the help of diagram and he seem satisfied.
 
 
 
+### Some thoughts...
 
+++ Prior to my interview I had cold emailed Prof. Arkaprava, showing my interest to work under him, this helps the professors review your profile especially if you have job experience and understand you better. Also he/she will let you know if they have any bandwidth to advise students that year(sometimes they are on sabbatical or don't have empty positions)
+
+++ It's always good and advisable to thoroughly review all the professor's recent publications/works and see whether it fascinates you and brings out the curiosity within to explore the particular area.
+
+++ Be absolutely crystal clear on your basics and don;t look into advanced topics or area, you will have a lot of time to explore that in grad school.
+
+[Cold Emails](https://ugr.ue.ucsc.edu/email)
+
+[Review Professsors as per your area](https://csrankings.org/#/fromyear/2012/toyear/2022/index?all&us)
+
+[Gold content from Prof Biswa which helped me alot](https://www.cse.iitb.ac.in/~biswa/blogs.html)
