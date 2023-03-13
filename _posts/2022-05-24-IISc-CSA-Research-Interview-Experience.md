@@ -126,9 +126,13 @@ Me : (*Well I messed it up!*) It contains page number along with MM frame number
 I referred the following resources which strengthened by base before the interviews:
 
 [Prof. Sorav Bansal IIT-D OS](https://youtube.com/playlist?list=PLTtjs-HViBW6525-_a8QL3meFIlP31gGE)
+
 [Prof. Mythili IIT-B OS](https://youtube.com/playlist?list=PLDW872573QAb4bj0URobvQTD41IV6gRkx)
+
 [Prof. Biswabandan Panda IIT-B Architecture](https://youtube.com/playlist?list=PLw6vmiIQrilTWa5twNV8opVJ3ge_kEfsM)
+
 [Prof Vinod and Arka IISc - OS](https://www.csa.iisc.ac.in/~vg/teaching/E0-253/schedule.html)
+
 
 ### Part - III
 
