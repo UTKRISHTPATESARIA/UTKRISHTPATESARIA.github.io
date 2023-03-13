@@ -18,7 +18,7 @@ I am splitting my interview into 3 parts so that it will be easier to read. Plea
 
 ### Part - I
 
-RH: He read out my profile and checked it with me. So you passed out from KIIT in 2020, and after that you have been working at NUTANIX!!. Everyone stared at me, (actually Nutanix funds majority of the labs hence they all know about its product). He asked me to describe my job profile and what I have been working on.
+RH: He read out my profile and checked it with me. So you passed out from KIIT in 2020, and after that you have been working at NUTANIX!!. He asked me to describe my job profile and what I have been working on.
 
 *(The next 20 mins of the interview was completely based on my job experience and the level of interview got escalated Please don’t expect these kind of questions as the interview was very specific to my job role).*
 
@@ -121,6 +121,15 @@ VG : Im interested in knowing what the are contents of Page table.
 
 Me : (*Well I messed it up!*) It contains page number along with MM frame number(actual physical address). (*I forogt to mention about all the bits for protection, dirty, R/W and how page no are related with frame number. PTE doesn't contain page number. I should have explained the whole virtual to physical address conversation)*.
 
+(* I haven;t described this part properly but I remeber writing some psuedocode and explaining some other concepts too*)
+
+I referred the following resources which strengthened by base before the interviews:
+
+[Prof. Sorav Bansal IIT-D OS](https://youtube.com/playlist?list=PLTtjs-HViBW6525-_a8QL3meFIlP31gGE)
+[Prof. Mythili IIT-B OS](https://youtube.com/playlist?list=PLDW872573QAb4bj0URobvQTD41IV6gRkx)
+[Prof. Biswabandan Panda IIT-B Architecture](https://youtube.com/playlist?list=PLw6vmiIQrilTWa5twNV8opVJ3ge_kEfsM)
+[Prof Vinod and Arka IISc - OS](https://www.csa.iisc.ac.in/~vg/teaching/E0-253/schedule.html)
+
 ### Part - III
 
 AB : Let's move on to coding. 
@@ -129,7 +138,7 @@ AB : Let's move on to coding.
 
 AB : Are you aware of height balanced trees?
 
-Me : *(I hope they don't ask me to code)* Yes I am, in a binary tree for every node the difference of left and right subtree should difer by a constant, in case of AVL the constant is 1.
+Me : Yes I am, in a binary tree for every node the difference of left and right subtree should difer by a constant, in case of AVL the constant is 1.
 
 AB : What is special about AVL?
 
