@@ -2,7 +2,7 @@
 
 Utkrisht is a grad student @ [Department of Computer Science and Automation](https://www.csa.iisc.ac.in/)<b> , IISc Bangalore</b>. He is advised by [Prof Arkaprava Basu](https://www.csa.iisc.ac.in/~arkapravab/index.html) and works at [CSL](https://csl.csa.iisc.ac.in/). His research is primarily focussed in Computer Systems(Architecture & Memory/Storage Subsystem).
 
-He is currently working on identifying bottlenecks in SOTA GPU memory oversubscription techniques for various graph workloads and also exploring GPU to storage path(local/remote) for accelerating access to datasets that don't fit the GPU memory using [NVidia GPU Direct] (https://docs.nvidia.com/gpudirect-storage/design-guide/index.html).
+He is currently working on identifying bottlenecks in SOTA GPU memory oversubscription techniques for various graph workloads and also exploring GPU to storage path(local/remote) for accelerating access to datasets that don't fit the GPU memory using [NVidia GPU Direct](https://docs.nvidia.com/gpudirect-storage/design-guide/index.html).
 
 He previously held a position at <b>Nutanix</b> from 2020 to 2022 as an SRE where his work primarily revolved around troubleshooting issues on Nutanix stack. He is skilled in resolving issues related to Networking, Hardware, Virtualisation/Hypervisors, Storage on (AHV/ESXi/Hyper-V).
 
